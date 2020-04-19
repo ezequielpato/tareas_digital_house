@@ -1,0 +1,4 @@
+1.Mostrar el factorial del numero ingresado. Nota para ayudarlos: RECURSION
+2.Mostrar el código ASCII de la letra o numero ingresado
+3.Ingresar tres valores números los cuales formaran una fecha, EG: node app.js 4 12 2020 , e indicar si es día laboral. 
+(obviamente día laboral se considera si cae de Lunes a Viernes)
