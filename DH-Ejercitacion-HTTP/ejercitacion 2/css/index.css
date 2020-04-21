@@ -1,0 +1,85 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+    letter-spacing: 0.08rem;
+    line-height : 1.4rem;
+}
+
+h1{
+    font-size: 7rem;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 1.9rem;
+    margin-top: 5rem;
+    line-height : 2rem;
+    font-weight: bolder;
+}
+
+h3{
+    font-size: 1.2rem;
+    margin-top: 5rem;
+}
+
+p ol a{
+    font-size: 1.1rem;
+}
+
+
+iframe, .plist{
+    margin-top: 1.5rem;
+    margin-block-end: 1.5rem;
+}
+
+.top{
+    margin: 0;
+}
+
+.menu{
+    position: absolute;
+    top: 5rem;
+    right: 3rem;
+    background-color: white;
+    font-size: 1.3rem;
+}
+
+.main-title {
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+}
+
+.album{
+    margin-top: 1.5rem;
+    margin-left: 3rem;
+    margin-bottom: 6rem;
+}
+
+#content{
+    margin-bottom: 1rem;
+}
+
+ol.a{
+    list-style-type: square;
+    margin-left: 2rem;
+    line-height : 2rem;
+}
+
+a:link, :visited {
+    text-decoration: none;
+    color: #666;
+}
+
+a:hover {
+    text-decoration: underline;
+}
