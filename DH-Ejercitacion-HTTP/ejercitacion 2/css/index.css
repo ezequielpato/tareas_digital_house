@@ -21,8 +21,8 @@ html {
 
 body {
     font-family: "Raleway", sans-serif;
-    letter-spacing: 0.1rem;                    //Espacio entre letras
-    line-height : 1.4rem;                       //Espacio entre lineas
+    letter-spacing: 0.1rem;                    /* Espacio entre letras */
+    line-height : 1.4rem;                      /* Espacio entre lineas */
 }
 
 h1{
